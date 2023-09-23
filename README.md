@@ -96,7 +96,7 @@ How to set up Hyper Key:
 2. Configure Karabiner-Elements
   - You can import my Karabiner Hyper Key rules by opening this link in your browser:
     ```
-    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/dexterleng/homerow/main/hyper_key.json
+    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/yuanzhaoYZ/homerow/main/hyper_key.json
     ```
     - [View the rules JSON](https://github.com/dexterleng/homerow/blob/main/hyper_key.json)
     
