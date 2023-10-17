@@ -1,3 +1,6 @@
+
+
+
 {
   "title": "Caps Lock to Hyper Key (Command-Control-Shift)",
   "rules": [
@@ -132,7 +135,7 @@
         },
         {
           "from": {
-            "key_code": "spacebar",
+            "key_code": "n",
             "modifiers": {
               "mandatory": [
                 "left_shift",
@@ -146,7 +149,7 @@
           },
           "to": [
             {
-              "key_code": "keypad_enter"
+              "key_code": "return_or_enter"
             }
           ],
           "type": "basic"
