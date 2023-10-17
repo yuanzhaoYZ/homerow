@@ -120,7 +120,7 @@
         },
         {
           "from": {
-            "key_code": "g",
+            "key_code": "s",
             "modifiers": {
               "mandatory": [
                 "left_shift",
@@ -135,6 +135,27 @@
           "to": [
             {
               "key_code": "delete_or_backspace"
+            }
+          ],
+          "type": "basic"
+        },
+        {
+          "from": {
+            "key_code": "space",
+            "modifiers": {
+              "mandatory": [
+                "left_shift",
+                "left_command",
+                "left_control"
+              ],
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "return_or_enter"
             }
           ],
           "type": "basic"
