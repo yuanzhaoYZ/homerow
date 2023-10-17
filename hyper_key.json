@@ -16,16 +16,7 @@
           "to": [
             {
               "key_code": "left_shift",
-              "modifiers": [
-                "left_command",
-                "left_control"
-              ]
-            }
-          ],
-          "to_if_alone": [
-            {
-              "key_code": "escape"
-            }
+          }
           ],
           "type": "basic"
         }
@@ -155,7 +146,7 @@
           },
           "to": [
             {
-              "key_code": "return"
+              "key_code": "keypad_enter"
             }
           ],
           "type": "basic"
