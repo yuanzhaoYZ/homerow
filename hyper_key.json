@@ -141,7 +141,7 @@
         },
         {
           "from": {
-            "key_code": "n",
+            "key_code": "spacebar",
             "modifiers": {
               "mandatory": [
                 "left_shift",
@@ -155,7 +155,7 @@
           },
           "to": [
             {
-              "key_code": "return_or_enter"
+              "key_code": "return"
             }
           ],
           "type": "basic"
